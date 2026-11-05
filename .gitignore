@@ -1,0 +1,12 @@
+# HarmonyOS / DevEco Studio
+build/
+.hvigor/
+oh_modules/
+.idea/
+*.har
+**/build/
+local.properties
+signingConfigs/
+*.p12
+*.cer
+*.p7b

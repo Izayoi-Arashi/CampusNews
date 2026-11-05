@@ -1,0 +1,39 @@
+export const COLOR_PRIMARY: string = '#1E3A8A';
+export const COLOR_PRIMARY_PRESSED: string = '#172E6E';
+export const COLOR_ACCENT: string = '#3B82F6';
+export const COLOR_BG: string = '#F7F9FD';
+export const COLOR_LIGHT_BLUE: string = '#E8EEFB';
+export const COLOR_CHIP_BG: string = '#DBEAFE';
+export const COLOR_CHIP_TEXT: string = '#1D4ED8';
+export const COLOR_CARD_BORDER: string = '#EDF1F9';
+export const COLOR_INPUT_BORDER: string = '#E4EAF4';
+export const COLOR_DIVIDER: string = '#F0F4FA';
+export const COLOR_TITLE: string = '#111E3A';
+export const COLOR_BODY: string = '#33415C';
+export const COLOR_SECONDARY: string = '#4A5A75';
+export const COLOR_MUTED: string = '#64748B';
+export const COLOR_WEAK: string = '#8B9AB3';
+export const COLOR_TERTIARY: string = '#9AA7BC';
+export const COLOR_SWITCH_OFF: string = '#CBD5E6';
+export const COLOR_REQUIRED: string = '#E04B4B';
+export const COLOR_MASK: string = '#0B1730';
+
+export const FONT_PAGE: number = 22;
+export const FONT_PAGE_SUB: number = 20;
+export const FONT_BAR: number = 17;
+export const FONT_DETAIL_TITLE: number = 23;
+export const FONT_CARD_TITLE: number = 15.5;
+export const FONT_SECTION: number = 13.5;
+export const FONT_BODY: number = 14;
+export const FONT_SUB: number = 13;
+export const FONT_SMALL: number = 12;
+export const FONT_TINY: number = 11;
+
+export const RADIUS_CARD: number = 18;
+export const RADIUS_CARD_SM: number = 14;
+export const RADIUS_INPUT: number = 12;
+export const RADIUS_CHIP: number = 6;
+
+export const PAGE_PADDING: number = 20;
+export const CARD_PADDING: number = 16;
+export const CARD_GAP: number = 12;

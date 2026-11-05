@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "CampusNews entry module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "CampusNews main ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "校园资讯"
+    }
+  ]
+}
